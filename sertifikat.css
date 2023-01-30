@@ -1,0 +1,46 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+.bg {
+    background-image: url('background\ texture.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+.title {
+    color: #f2a251;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.container {
+    width: 500px;
+    border: 1px solid #f2a251;
+    background-color: rgba(0, 0, 0, 0.10);
+    padding: 25px;
+    margin: 0 auto;
+    color: #f2a251;
+    text-align: center;
+}
+
+.photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #f2a251;
+}
+
+h3 {
+    text-align: center;
+    margin: 20px auto;
+    color: #f2a251;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px auto;
+    color: #f2a251;
+}
